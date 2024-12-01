@@ -1,0 +1,15 @@
+{
+    "python.defaultInterpreterPath": ".venv/bin/python3",
+    "editor.formatOnSave": true,
+    "python.analysis.diagnosticMode": "openFilesOnly",
+    "python.analysis.inlayHints.functionReturnTypes": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "explicit",
+        "source.organizeImports": "explicit"
+    },
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/*.pyc": true
+    }
+}

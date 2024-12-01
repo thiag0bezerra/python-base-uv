@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "usernamehw.errorlens",
+        "ms-python.vscode-pylance",
+        "ms-python.debugpy",
+        "ms-toolsai.jupyter",
+        "charliermarsh.ruff",
+        "redhat.vscode-xml",
+        "redhat.vscode-yaml",
+        "tomoki1207.pdf",
+        "DavidAnson.vscode-markdownlint"
+    ]
+}
