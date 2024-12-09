@@ -3,6 +3,8 @@
     "editor.formatOnSave": true,
     "python.analysis.diagnosticMode": "openFilesOnly",
     "python.analysis.inlayHints.functionReturnTypes": true,
+    "python.analysis.inlayHints.callArgumentNames": "partial",
+    "python.analysis.inlayHints.variableTypes": true,
     "editor.codeActionsOnSave": {
         "source.fixAll": "explicit",
         "source.organizeImports": "explicit"
